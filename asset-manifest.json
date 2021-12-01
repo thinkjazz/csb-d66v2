@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-d66v2/static/css/main.bf0b79b5.chunk.css",
+    "main.js": "https://.github.io/csb-d66v2/static/js/main.b1340662.chunk.js",
+    "main.js.map": "https://.github.io/csb-d66v2/static/js/main.b1340662.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-d66v2/static/js/runtime-main.dc1ec378.js",
+    "runtime-main.js.map": "https://.github.io/csb-d66v2/static/js/runtime-main.dc1ec378.js.map",
+    "static/js/2.cc938875.chunk.js": "https://.github.io/csb-d66v2/static/js/2.cc938875.chunk.js",
+    "static/js/2.cc938875.chunk.js.map": "https://.github.io/csb-d66v2/static/js/2.cc938875.chunk.js.map",
+    "index.html": "https://.github.io/csb-d66v2/index.html",
+    "precache-manifest.e4927acf1719b2e7d3ba6c0ec23f81f8.js": "https://.github.io/csb-d66v2/precache-manifest.e4927acf1719b2e7d3ba6c0ec23f81f8.js",
+    "service-worker.js": "https://.github.io/csb-d66v2/service-worker.js",
+    "static/css/main.bf0b79b5.chunk.css.map": "https://.github.io/csb-d66v2/static/css/main.bf0b79b5.chunk.css.map",
+    "static/js/2.cc938875.chunk.js.LICENSE": "https://.github.io/csb-d66v2/static/js/2.cc938875.chunk.js.LICENSE",
+    "static/media/crop-1.jpg": "https://.github.io/csb-d66v2/static/media/crop-1.eff8d384.jpg",
+    "static/media/crop-10.jpg": "https://.github.io/csb-d66v2/static/media/crop-10.1033d7e2.jpg",
+    "static/media/crop-11.jpg": "https://.github.io/csb-d66v2/static/media/crop-11.6e4bd970.jpg",
+    "static/media/crop-12.jpg": "https://.github.io/csb-d66v2/static/media/crop-12.834ea713.jpg",
+    "static/media/crop-13.jpg": "https://.github.io/csb-d66v2/static/media/crop-13.ea8e51fb.jpg",
+    "static/media/crop-14.jpg": "https://.github.io/csb-d66v2/static/media/crop-14.411aa813.jpg",
+    "static/media/crop-2.jpg": "https://.github.io/csb-d66v2/static/media/crop-2.458bc44f.jpg",
+    "static/media/crop-3.jpg": "https://.github.io/csb-d66v2/static/media/crop-3.d5391c64.jpg",
+    "static/media/crop-4.jpg": "https://.github.io/csb-d66v2/static/media/crop-4.743d7512.jpg",
+    "static/media/crop-5.jpg": "https://.github.io/csb-d66v2/static/media/crop-5.72e6e7b7.jpg",
+    "static/media/crop-6.jpg": "https://.github.io/csb-d66v2/static/media/crop-6.55592ea0.jpg",
+    "static/media/crop-7.jpg": "https://.github.io/csb-d66v2/static/media/crop-7.51bd8861.jpg",
+    "static/media/crop-8.jpg": "https://.github.io/csb-d66v2/static/media/crop-8.82173777.jpg",
+    "static/media/crop-9.jpg": "https://.github.io/csb-d66v2/static/media/crop-9.e0195cf8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1ec378.js",
+    "static/js/2.cc938875.chunk.js",
+    "static/css/main.bf0b79b5.chunk.css",
+    "static/js/main.b1340662.chunk.js"
+  ]
+}
